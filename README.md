@@ -2,4 +2,4 @@
 
 use nodejs, express, mysql
 
-nodejs 에서 express 프레임워크를 이용한 웹애플리케이션 이며 mysql을 사용해서 간단한 CRUD를 구현하였음 코드 정리가 되어있지 않으니 사용하려면 정리해서 사용하기 바람
+nodejs 에서 express 프레임워크를 이용한 웹애플리케이션 이며 mysql을 사용해서 간단한 CRUD를 구현하였음 코드 정리가 되어있지 않으니 과제로 제출하려면 정리해서 사용하기 바람
